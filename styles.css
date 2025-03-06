@@ -8,9 +8,14 @@ div.tmp {
     border: 3px solid red;
 }
 
-div.hero-container {
+div.hero-container,
+div.footer {
     font-family: Roboto, sans-serif;
     background-color: #1F2937;
+}
+
+div.hero-container {
+    font-family: Roboto, sans-serif;
     padding: 15px 15%;
 }
 
@@ -77,4 +82,12 @@ button {
 button.hero-button {
     border: none;
     margin: 10px 0;
+}
+
+div.footer {
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
 }
