@@ -3,12 +3,6 @@
     font-family: Roboto, sans-serif;
 }
 
-div.tmp {
-    height: 100px;
-    background-color: pink;
-    border: 3px solid red;
-}
-
 div.hero-container,
 div.footer {
     background-color: #1F2937;
@@ -22,7 +16,6 @@ div.hero-container {
 div.header {
     display: flex;
     justify-content: space-between;
-    /* padding: 10px 0; */
 }
 
 div.hero-content {
@@ -41,7 +34,6 @@ img.hero-image {
     height: auto;
 }
 
-/* "this website is awesome" */
 h1.hero-main-text {
     font-size: 48px;
     color: #F9FAFB;
@@ -125,7 +117,6 @@ div.quote-container {
 
 div.quote {
     font-size: 36px;
-    /* light italic */
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
