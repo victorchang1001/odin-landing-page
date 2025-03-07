@@ -136,6 +136,33 @@ p.quote-author {
     font-weight: bold;
 }
 
+div.signup-container {
+    background-color: #3882F6;
+    margin: 69px 17%;
+    padding: 40px 69px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+button.signup-button {
+    border: 2px solid white;
+}
+
+div.signup-text {
+    color: #F9FAFB;
+}
+
+p.signup-text-bold {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p.signup-text-light {
+    font-size: 16px;
+    font-weight: 200;
+}
+
 div.footer {
     color: #E5E7EB;
     display: flex;
